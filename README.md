@@ -8,4 +8,6 @@ Arduino UNO:
 https://www.mcielectronics.cl/shop/product/arduino-uno-r3-arduino-10230
 
 I used this on my 3D-printed Google Home Wurlitzer, to drive the 12 LEDS according to the music:
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/cvasquez-github/arduino-vu-meter-led/main/cvs-wurlitzer-led.png))
+
 https://www.instagram.com/tv/CbPt0gJgOKf/
